@@ -9,7 +9,7 @@
 #include <math.h>
 
 int main(void) {
-  printf("Sejam todos bem-vindos ao meu portfolio! Eu sou o professor antonio neto e hoje vou tentar repassar meu conhecimento me desenvolvo em C e revisando conceitos matemáticos com vocês.\n");
+  printf("Sejam todos bem-vindos ao meu portfolio! Eu sou o professor antonio neto e hoje vamos criar um programa em C e revisar conceitos matemáticos de forma eficiente.\n");
   return 0;
 
 }
